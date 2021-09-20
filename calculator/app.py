@@ -2,7 +2,12 @@ from flask import Flask, render_template, request, jsonify
 
 rebdgtbdh
 ebgbgbhgb
-enhhnnapp = Flask(__name__)
+
+
+enhhnnaphnfnhngn
+nhghfn
+nfh
+fhp = Flask(__name__)
 
 
 @oute('/', methods=['GET', 'POST']) # To render Homepage
